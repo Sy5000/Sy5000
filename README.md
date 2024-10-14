@@ -8,10 +8,9 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <br/>
-Hi there 👋
+<h1> Welcome  </h1>
 </div>
-  
+
 <!-- profile view counter-->
 <!--
 <div align="center">
@@ -19,16 +18,18 @@ Hi there 👋
 </div>
 --> 
 
----
+## Hi There 👋
 
-About Me: A full stack web developer with tertiary qualifications in both I.T and Graphic Design. I create projects with vibrant and accessible UX's, using maintainable, developer friendly code.
+**About Me:** 
+I am a full stack web developer with tertiary qualifications in both I.T and Graphic Design. I create projects with vibrant and accessible UX's, using maintainable, developer friendly code.
 
-Located in: Sunny Brisbane, QLD.
+**Located in:** 
+Sunny Brisbane, QLD.
 
-I'm currentlly learning: SASS CSS Preprocessing
+**I'm currentlly learning:** 
+SASS CSS Preprocessing
 
-Currently working on: 
-
+**I'm Currently working on:** 
 - Building up a personal library of common reusable componants to speed up future builds
 - Dynamic styleguide templates (quickly generate and edit typography scales, colour pallettes etc)  
 
