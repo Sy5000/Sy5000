@@ -21,17 +21,17 @@
 ## Hi There 👋
 
 **About Me:** 
-I am a full stack web developer with tertiary qualifications in both I.T and Graphic Design. I create projects with vibrant and accessible UX's, using maintainable, developer friendly code.
+I am a full-stack web developer with tertiary qualifications in both I.T. and Graphic Design. I create projects with vibrant and accessible UXs using maintainable, developer-friendly code.
 
 **Located in:** 
 Sunny Brisbane, QLD.
 
-**I'm currentlly learning:** 
+**I'm currently learning:** 
 SASS CSS Preprocessing
 
 **I'm Currently working on:** 
-- Building up a personal library of common reusable componants to speed up future builds
-- Dynamic styleguide templates (quickly generate and edit typography scales, colour pallettes etc)  
+- Building up a personal library of common reusable components to speed up future builds
+- Dynamic style guide templates (quickly generate and edit typography scales, colour palettes etc)  
 
 
 <!--
