@@ -30,7 +30,7 @@ Sunny Brisbane, QLD.
 SASS CSS Preprocessing
 
 **I'm Currently working on:** 
-- Building up a personal library of common reusable components to speed up future builds
+- Building up a personal library of common reusable components to speed up my build process.
 - Dynamic style guide templates (quickly generate and edit typography scales, colour palettes etc)  
 
 
