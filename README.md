@@ -23,13 +23,16 @@
 **About Me:** 
 I am a full-stack web developer with tertiary qualifications in both I.T. and Graphic Design. I create projects with vibrant and accessible UXs using maintainable, developer-friendly code.
 
+**I'M currently working at:**
+I currently work for Coopers Brewery. I am also working freelance projects alongside my day job.
+
 **Located in:** 
 Sunny Brisbane, QLD.
 
 **I'm currently learning:** 
 SASS CSS Preprocessing
 
-**I'm Currently working on:** 
+**I'm Currently building:** 
 - Building up a personal library of common reusable components to speed up my build process.
 - Dynamic style guide templates (quickly generate and edit typography scales, colour palettes etc)  
 
