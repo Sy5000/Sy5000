@@ -30,7 +30,9 @@ Coopers Brewery (the job I had whilst studying). I am also working freelance pro
 Sunny Brisbane, QLD.
 
 **I'm currently learning:** 
-SASS CSS Preprocessing
+React - UI Javascript Library / Framework via scrimba.com. A course designed with MDN Web Docs. 
+
+https://scrimba.com/learn-react-c0e
 
 **I'm Currently building:** 
 - Building up a personal library of common reusable components to speed up my build process.
