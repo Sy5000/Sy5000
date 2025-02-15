@@ -51,6 +51,8 @@ https://scrimba.com/learn-react-c0e
   &nbsp;&nbsp;
   <img  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   &nbsp;&nbsp;
+   <img  src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+  &nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original-wordmark.svg?plain=1" title="NodeJS" alt="NodeJS" width="50" height="50"/>
   &nbsp;&nbsp;
    <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/php/php-plain.svg?plain=1" title="PHP" alt="PHP" width="50" height="50"/>
