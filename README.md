@@ -18,7 +18,7 @@
 </div>
 --> 
 
-## Hello There 👋
+## Hey There 👋
 
 **About Me:** 
 I am a full-stack web developer with tertiary qualifications in both I.T. and Graphic Design. I create projects with vibrant and accessible UXs using maintainable, developer-friendly code.
