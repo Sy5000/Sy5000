@@ -18,13 +18,13 @@
 </div>
 --> 
 
-## Bon Soir 👋
+## Hey There 👋
 
 **About Me:** 
 I am a full-stack web developer with tertiary qualifications in both I.T. and Graphic Design. I create projects with vibrant and accessible UXs using maintainable, developer-friendly code.
 
 **Currently working at:**
-Coopers Brewery (the job I had whilst studying). I am also working freelance projects alongside my day job.
+Coopers Brewery. I am also working freelance projects alongside my day job.
 
 **Located in:** 
 Sunny Brisbane, QLD.
@@ -35,7 +35,7 @@ React - UI Javascript Library / Framework via scrimba.com. A course designed wit
 https://scrimba.com/learn-react-c0e
 
 **I'm Currently building:** 
-- Spotify stats / wrapped App using React + Spotify API
+- Spotify user stats/wrapped App using React + Spotify API
 - Dynamic style guide templates (quickly generate and edit typography scales, colour palettes etc)  
 
 ---
