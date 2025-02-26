@@ -35,7 +35,7 @@ React - UI Javascript Library / Framework via scrimba.com. A course designed wit
 https://scrimba.com/learn-react-c0e
 
 **I'm Currently building:** 
-- Spotify user stats/wrapped App using React + Spotify API
+- __Frequency__ Spotify user stats/wrapped App using React + Spotify API
 - Dynamic style guide templates (quickly generate and edit typography scales, colour palettes etc)  
 
 ---
